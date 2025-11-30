@@ -39,6 +39,14 @@ Me chamo Daniely Maximo Marcon, tenho 19 anos e sou de Campo Grande, Mato Grosso
 ### Linguagens e Ferramentas 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
